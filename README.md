@@ -18,8 +18,8 @@ A Laravel 12 application for managing sales and purchase invoices, customers, su
 
    ```dotenv
    ADMIN_NAME="Finora Administrator"
-   ADMIN_EMAIL=admin@example.com
-   ADMIN_PASSWORD=change-this-password
+   ADMIN_EMAIL=admin@gmail.com
+   ADMIN_PASSWORD=admin@1234
    ```
 
 4. Install and initialize the application:
